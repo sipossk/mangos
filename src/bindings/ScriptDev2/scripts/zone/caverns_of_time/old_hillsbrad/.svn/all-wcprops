@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/caverns_of_time/old_hillsbrad
+END
+old_hillsbrad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/caverns_of_time/old_hillsbrad/old_hillsbrad.cpp
+END
+boss_captain_skarloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/caverns_of_time/old_hillsbrad/boss_captain_skarloc.cpp
+END
+def_old_hillsbrad.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/caverns_of_time/old_hillsbrad/def_old_hillsbrad.h
+END
+instance_old_hillsbrad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/scriptdev2/!svn/ver/1104/scripts/zone/caverns_of_time/old_hillsbrad/instance_old_hillsbrad.cpp
+END
+boss_epoch_hunter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/caverns_of_time/old_hillsbrad/boss_epoch_hunter.cpp
+END
+boss_leutenant_drake.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/scriptdev2/!svn/ver/1060/scripts/zone/caverns_of_time/old_hillsbrad/boss_leutenant_drake.cpp
+END

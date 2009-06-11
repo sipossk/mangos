@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/scriptdev2/!svn/ver/1060/scripts/creature
+END
+simple_ai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/scriptdev2/!svn/ver/1060/scripts/creature/simple_ai.cpp
+END
+mob_generic_creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/scriptdev2/!svn/ver/1060/scripts/creature/mob_generic_creature.cpp
+END
+simple_ai.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/scriptdev2/!svn/ver/1060/scripts/creature/simple_ai.h
+END

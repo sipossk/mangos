@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/magisters_terrace
+END
+magisters_terrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/scriptdev2/!svn/ver/1126/scripts/zone/magisters_terrace/magisters_terrace.cpp
+END
+def_magisters_terrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/scriptdev2/!svn/ver/845/scripts/zone/magisters_terrace/def_magisters_terrace.h
+END
+instance_magisters_terrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/scriptdev2/!svn/ver/1104/scripts/zone/magisters_terrace/instance_magisters_terrace.cpp
+END
+boss_felblood_kaelthas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/magisters_terrace/boss_felblood_kaelthas.cpp
+END
+boss_selin_fireheart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/magisters_terrace/boss_selin_fireheart.cpp
+END
+boss_vexallus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/magisters_terrace/boss_vexallus.cpp
+END
+boss_priestess_delrissa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/magisters_terrace/boss_priestess_delrissa.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/scriptdev2/!svn/ver/1131/scripts/zone/hellfire_citadel/hellfire_ramparts
+END
+boss_watchkeeper_gargolmar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/hellfire_citadel/hellfire_ramparts/boss_watchkeeper_gargolmar.cpp
+END
+def_hellfire_ramparts.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/scriptdev2/!svn/ver/1131/scripts/zone/hellfire_citadel/hellfire_ramparts/def_hellfire_ramparts.h
+END
+instance_hellfire_ramparts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/scriptdev2/!svn/ver/1131/scripts/zone/hellfire_citadel/hellfire_ramparts/instance_hellfire_ramparts.cpp
+END
+boss_omor_the_unscarred.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/hellfire_citadel/hellfire_ramparts/boss_omor_the_unscarred.cpp
+END
+boss_nazan_and_vazruden.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/scriptdev2/!svn/ver/1131/scripts/zone/hellfire_citadel/hellfire_ramparts/boss_nazan_and_vazruden.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/hellfire_citadel/blood_furnace
+END
+boss_broggok.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/hellfire_citadel/blood_furnace/boss_broggok.cpp
+END
+boss_the_maker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/hellfire_citadel/blood_furnace/boss_the_maker.cpp
+END
+def_blood_furnace.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/scriptdev2/!svn/ver/1025/scripts/zone/hellfire_citadel/blood_furnace/def_blood_furnace.h
+END
+instance_blood_furnace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/scriptdev2/!svn/ver/1104/scripts/zone/hellfire_citadel/blood_furnace/instance_blood_furnace.cpp
+END
+boss_kelidan_the_breaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/hellfire_citadel/blood_furnace/boss_kelidan_the_breaker.cpp
+END

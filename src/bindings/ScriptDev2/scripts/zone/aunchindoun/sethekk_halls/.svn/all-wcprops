@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/aunchindoun/sethekk_halls
+END
+def_sethekk_halls.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/aunchindoun/sethekk_halls/def_sethekk_halls.h
+END
+instance_sethekk_halls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/scriptdev2/!svn/ver/1023/scripts/zone/aunchindoun/sethekk_halls/instance_sethekk_halls.cpp
+END
+boss_tailonking_ikiss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/scriptdev2/!svn/ver/1130/scripts/zone/aunchindoun/sethekk_halls/boss_tailonking_ikiss.cpp
+END
+boss_darkweaver_syth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/scriptdev2/!svn/ver/1060/scripts/zone/aunchindoun/sethekk_halls/boss_darkweaver_syth.cpp
+END

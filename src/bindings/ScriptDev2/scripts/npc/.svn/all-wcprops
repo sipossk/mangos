@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/scriptdev2/!svn/ver/1080/scripts/npc
+END
+npc_escortAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/scriptdev2/!svn/ver/1060/scripts/npc/npc_escortAI.h
+END
+npc_innkeeper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/scriptdev2/!svn/ver/1077/scripts/npc/npc_innkeeper.cpp
+END
+npcs_special.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/scriptdev2/!svn/ver/1077/scripts/npc/npcs_special.cpp
+END
+npc_escortAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/scriptdev2/!svn/ver/1080/scripts/npc/npc_escortAI.cpp
+END
+npc_professions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/scriptdev2/!svn/ver/1077/scripts/npc/npc_professions.cpp
+END
